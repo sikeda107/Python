@@ -13,3 +13,8 @@ Python Sample Programs
 1. python3 --version
 
 ref: [CentOS7にPython3とpipをインストールする - ゾンビでもわかるPythonプログラミング](http://python.zombie-hunting-club.com/entry/2017/11/03/223832#21-pip%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E6%96%B9%E6%B3%95)
+
+##  latex_pmatrix
+行列ファイルを与えるとlatex のpmatrixで返してくれる
+
+## 

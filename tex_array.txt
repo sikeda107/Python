@@ -1,0 +1,10 @@
+\begin{equation}
+V_{ij} = 
+\begin{pmatrix}
+1&1&1&1\\
+2&2&2&2\\
+3&3&3&3\\
+4&4&4&4\\
+\end{pmatrix}
+\label{eq:matrix}
+\end{equation}
